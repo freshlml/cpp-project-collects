@@ -38,7 +38,7 @@ int main()
     //                         -fexec-charset and -fwide-exec-charset to specify the encodings of the execution character set 
     //                         in the string and character literals that don't have an encoding prefix (since C++11),
     //                         while Visual Studio 2015 Update 2 and later uses /source-charset and /execution-charset to 
-    //                         specify the source character set and execution character set respectively
+    //                         specify the source character set and execution character set respectively.
     
     //gcc编译器中 execution character set 默认值为 UTF-8
 
